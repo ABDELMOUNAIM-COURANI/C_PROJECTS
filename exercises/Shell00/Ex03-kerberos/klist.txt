@@ -1,0 +1,6 @@
+Ticket cache: FILE:/tmp/krb5cc_1000
+Default principal: a-c@spaceship.local
+
+Valid starting       Expires              Service principal
+2024-07-20T15:08:34  2024-07-21T01:08:34  krbtgt/spaceship.local@spaceship.local
+	renew until 2024-07-21T15:08:25
